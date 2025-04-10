@@ -1,12 +1,12 @@
-# MRRAJAK1296 - Test Store Elevate Program
+# Test Store Elevate Program
 
 This repository contains automation test scripts for the AutomationTestStore website. It includes various test cases, test plans, bug reports, and other relevant documents for the elevate program.
 
 ## Directory Structure
-
+```
 mrrajak1296-teststoreelevateprogram/ ├── README.md # Project overview and documentation ├── Bug Report.xlsx # Spreadsheet detailing reported bugs ├── TEST PLAN.docx # Detailed test plan document ├── Test case.xlsx # Spreadsheet containing test cases ├── The Summary Report.docx # Summary report of test results └── elevateProgram/ # Folder containing automation test scripts ├── AutomationTestStore1.java # Test script 1 for AutomationTestStore └── AutomationtestStore.java # Test script 2 for AutomationTestStore
 
-
+```
 ## Project Overview
 
 This project focuses on the automation testing of the **AutomationTestStore** website. It includes both manual and automated test cases created using Java and other necessary tools.
